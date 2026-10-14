@@ -82,3 +82,5 @@ npm run lint
 ## Security and integrations
 
 Local `.env` files, virtual environments, build output, and SQLite database files are gitignored. WooCommerce consumer secrets and any Supabase service-role key must remain on the backend and are never exposed to frontend code. No Supabase project is configured by this implementation.
+# supplier-data-doctor
+Supplier Data Doctor is a product data management system that converts messy supplier Excel or CSV files into clean, accurate, store-ready product data.  It detects errors, helps users correct missing or invalid information, and lets them approve products before publishing them to a WooCommerce online store.  
