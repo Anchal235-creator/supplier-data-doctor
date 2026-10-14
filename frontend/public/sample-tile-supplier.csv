@@ -1,0 +1,19 @@
+Product_Code,Item_Name,Rate,Category,Tile_Size,Surface_Type,Shade,Material,Coverage
+TILE-1001,Porcelain Stone Ivory,24.50,Construction tiles,600 x 600 mm,Matte,Ivory,Porcelain,1.44 m2
+TILE-1002,Travertine Look Sand,31.25,Construction tiles,600 x 1200 mm,Polished,Sand,Porcelain,1.44 m2
+TILE-1003,Slate Graphite Outdoor,18.75,Construction tiles,300 x 600 mm,Textured,Graphite,Ceramic,0.90 m2
+TILE-1004,Concrete Mist,21.00,Construction tiles,600 x 600 mm,Matte,Mist,Porcelain,1.44 m2
+TILE-1005,,19.90,Construction tiles,300 x 300 mm,Gloss,Cloud,Ceramic,0.81 m2
+TILE-1006,Calacatta Vein White,,Construction tiles,600 x 1200 mm,Polished,White,Porcelain,1.44 m2
+TILE-1007,Terrazzo Chip Warm,27.40,Construction tiles,600 x 600 mm,Matte,Warm Grey,Porcelain,1.44 m2
+TILE-1008,Wood Grain Oak,16.80,Construction tiles,200 x 1200 mm,Textured,Oak,Ceramic,0.96 m2
+TILE-1009,Hex Mosaic Sea,34.00,Construction tiles,250 x 290 mm,Gloss,Sea Green,Ceramic,0.72 m2
+TILE-1010,Quarry Rust Exterior,22.60,Construction tiles,300 x 300 mm,Textured,Rust,Ceramic,0.81 m2
+TILE-1011,Marble Cloud Grey,29.90,Construction tiles,600 x 1200 mm,Polished,Cloud Grey,Porcelain,1.44 m2
+TILE-1012,Linear Ridge Chalk,23.10,Construction tiles,300 x 600 mm,Structured,Chalk,Ceramic,0.90 m2
+TILE-1001,Porcelain Stone Ivory,26.00,Construction tiles,600 x 600 mm,Matte,Ivory,Porcelain,1.44 m2
+TILE-1014,Terrazzo Chip Cool,not-a-price,Construction tiles,600 x 600 mm,Matte,Cool Grey,Porcelain,1.44 m2
+TILE-1015,Blue Limestone Effect,32.50,Construction tiles,,Honed,Blue Grey,Porcelain,1.44 m2
+TILE-1016,Pattern Tile Flora,38.00,Construction tiles,200 x 200 mm,Gloss,Flora,Ceramic,0.64 m2
+TILE-1017,Soft Cement Greige,20.45,Construction tiles,600 x 600 mm,Matte,Greige,Porcelain,1.44 m2
+TILE-1018,Linear Ridge Chalk,22.25,Construction tiles,300 x 600 mm,Structured,Chalk,Ceramic,0.90 m2

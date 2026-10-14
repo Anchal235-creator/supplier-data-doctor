@@ -1,0 +1,55 @@
+# JavaScript dependencies and build outputs
+node_modules/
+frontend/node_modules/
+frontend/dist/
+dist/
+
+# Python environments and generated files
+.venv/
+venv/
+backend/.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+backend/data/
+*.db
+*.sqlite
+*.sqlite3
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+
+# Editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Secrets and environment variables
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Frontend
+node_modules/
+dist/
+
+# Local databases and uploaded files
+*.db
+*.sqlite
+*.sqlite3
+uploads/
